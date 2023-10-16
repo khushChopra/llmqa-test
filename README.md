@@ -10,4 +10,10 @@ These actions are to correct the website for compliance reasons.
 ## Running the application
 1. Add OPEN API key to vars_example.py and rename it vars.py
 2. Install dependencies - pip install -r requirements.txt 
-3. Run application using - python main.py 
+3. Run application using - python main.py
+
+## DEMO 
+
+
+https://github.com/khushChopra/llmqa-test/assets/43996455/ef8bc938-f201-40ee-9a85-32e98938bd93
+
