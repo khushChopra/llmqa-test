@@ -17,3 +17,5 @@ These actions are to correct the website for compliance reasons.
 
 https://github.com/khushChopra/llmqa-test/assets/43996455/ef8bc938-f201-40ee-9a85-32e98938bd93
 
+## Further improvements
+The initial batch of requests to OpenAI can be executed paralelly instead of sequentually. Resulting in less time for execution.
